@@ -10,7 +10,7 @@ resources:
 
 variables:
   # Container registry service connection established during pipeline creation
-  dockerRegistryServiceConnection: '9bded09b-47a8-4f1b-984e-0be4a05415cb'
+  dockerRegistryServiceConnection: '5164140c-f87b-43ee-9151-e22cafb26ae3'
   imageRepository: 'hw'
   containerRegistry: 'shikhaacr.azurecr.io'
   dockerfilePath: '**/Dockerfile'
